@@ -1,0 +1,42 @@
+[{"category":"Finance","images":[
+    {"category":"Finance","i1":"fas fa-comment-dollar"},
+    {"category":"Finance","i1":"fas fa-credit-card"},
+    {"category":"Finance","i1":"far fa-credit-card"},
+    {"category":"Finance","i1":"fas fa-money-bill"},
+    {"category":"Finance","i1":"fas fa-money-check-alt"},
+    {"category":"Finance","i1":"fas fa-money-check"}
+
+
+]},
+{"category":"Technology","images":[ 
+    {"category":"Technology","i1":"fas fa-database"},
+     {"category":"Technology","i1":"fas fa-laptop"},
+    {"category":"Technology","i1":"fas fa-microchip"},
+    {"category":"Technology","i1":"fas fa-power-off"}
+
+]}
+,
+
+{"category":"Manufacturing","images":[
+    {"category":"Manufacturing","i1":"fas fa-building"},
+    {"category":"Manufacturing","i1":"far fa-hospital"},
+    {"category":"Manufacturing","i1":"fas fa-industry"},
+    {"category":"Manufacturing","i1":"fas fa-vihara"},
+    {"category":"Manufacturing","i1":"fas fa-tools"}
+   
+
+]},
+{"category":"Retail","images":[
+   
+    {"category":"Retail","i1":"fab fa-bitcoin"},
+    {"category":"Retail","i1":"fas fa-shopping-cart"},
+    {"category":"Retail","i1":"fas fa-shopping-basket"},
+    {"category":"Retail","i1":"fas fa-shopping-bag"},
+    {"category":"Retail","i1":"fab fa-ethereum"}
+   
+]}
+]
+
+
+
+
